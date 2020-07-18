@@ -1,6 +1,23 @@
 apply plugin: 'com.android.application'
 apply plugin: 'kotlin-android'
 apply plugin: 'kotlin-android-extensions'
+apply plugin: 'com.novoda.bintray-release'
+
+//for publishing
+publish {
+
+    def groupProjectID = 'com.args.drawingapp'
+    def artifactProjectID = 'DrawingPad'
+    def publishVersionID = '0.1.0'
+
+    userOrg = 'adityakamath16'
+    repoName = 'DrawingPad'
+    groupId = groupProjectID
+    artifactId = artifactProjectID
+    publishVersion = publishVersionID
+    desc = 'Helps users to add a drawing pad directly to their app'
+    website = 'https://github.com/adityakamath16/DrawingPad'
+}
 
 android {
     compileSdkVersion 29
