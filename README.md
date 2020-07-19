@@ -1,7 +1,7 @@
 # DrawingPad
 
 
-## Android Open-source library for developers to directly add a Drawing pad to their Android app.
+## Android Open-source app for developers to directly add a Drawing pad to their Android app.
 
 
 ## Features:
@@ -18,14 +18,6 @@
 |![Alt Text](https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/DrawingPad%2FDrawingpadoptimized.gif?alt=media&token=d8b2611a-b9bb-4ea0-97b2-ef1c956a3a1a)|
 
  
-# Usage
-## Dependency:
- 
- ```
- dependencies {
-      
- }
- ```
  
  ## XML Usage
  ```xml
