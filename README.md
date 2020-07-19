@@ -23,7 +23,7 @@
  
  ```
  dependencies {
-      implementation 'com.args:drawingpad:1.1.0'
+      
  }
  ```
  
