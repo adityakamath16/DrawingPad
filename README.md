@@ -45,12 +45,12 @@
  
  ## Kotlin Usage
  ```Kotlin
-         //for setting the size of the brush (as of now 20 is the default)
-          drawing_view.setSizeForBrush(20.toFloat())
+    //for setting the size of the brush (as of now 20 is the default)
+    drawing_view.setSizeForBrush(20.toFloat())
 
          
-         //for adding custom color to the brush (add the colour tag directly to colorTag)
-          drawing_view.setColor(colorTag)
+    //for adding custom color to the brush (add the colour tag directly to colorTag)
+    drawing_view.setColor(colorTag)
 
  ``` 
  
