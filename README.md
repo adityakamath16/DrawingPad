@@ -12,12 +12,15 @@
  - More features will be added soon :-)
  
  
-# Demonstration
+## Demonstration
 |Demo DrawingPad|
 |:---:|
 |![Alt Text](https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/DrawingPad%2FDrawingpadoptimized.gif?alt=media&token=d8b2611a-b9bb-4ea0-97b2-ef1c956a3a1a)|
 
- 
+ ## Clone Repository
+ ```
+  https://github.com/adityakamath16/DrawingPad.git    
+ ```
  
  ## XML Usage
  ```xml
